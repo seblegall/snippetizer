@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"log"
 	"flag"
-	url "net/url"
+	"net/url"
 )
 
 type snippet struct {
